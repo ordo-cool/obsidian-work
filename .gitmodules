@@ -1,0 +1,3 @@
+[submodule "obsidian-dotfiles"]
+	path = obsidian-dotfiles
+	url = https://github.com/o-cool-ocool/obsidian-dotfiles
