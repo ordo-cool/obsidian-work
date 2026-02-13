@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": false
+}
